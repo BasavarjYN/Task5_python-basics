@@ -48,7 +48,6 @@ The objective of this task is to gain hands-on experience with Python and Pandas
 - Learned how Python simplifies data cleaning compared to manual Excel methods
 
 ---
-
 ## 👩‍💻 Author
 Ramya MA  
-(Data Analyst Intern)
+(Data Anal
